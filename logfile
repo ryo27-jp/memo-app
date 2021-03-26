@@ -1,0 +1,16 @@
+2021-03-27 07:10:51.049 JST [8204] LOG:  starting PostgreSQL 13.2 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit
+2021-03-27 07:10:51.050 JST [8204] LOG:  could not bind IPv6 address "::1": Address already in use
+2021-03-27 07:10:51.050 JST [8204] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-03-27 07:10:51.050 JST [8204] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2021-03-27 07:10:51.050 JST [8204] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-03-27 07:10:51.050 JST [8204] WARNING:  could not create listen socket for "localhost"
+2021-03-27 07:10:51.050 JST [8204] FATAL:  could not create any TCP/IP sockets
+2021-03-27 07:10:51.051 JST [8204] LOG:  database system is shut down
+2021-03-27 07:11:17.685 JST [8227] LOG:  starting PostgreSQL 13.2 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit
+2021-03-27 07:11:17.687 JST [8227] LOG:  could not bind IPv6 address "::1": Address already in use
+2021-03-27 07:11:17.687 JST [8227] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-03-27 07:11:17.687 JST [8227] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2021-03-27 07:11:17.687 JST [8227] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-03-27 07:11:17.687 JST [8227] WARNING:  could not create listen socket for "localhost"
+2021-03-27 07:11:17.687 JST [8227] FATAL:  could not create any TCP/IP sockets
+2021-03-27 07:11:17.688 JST [8227] LOG:  database system is shut down
