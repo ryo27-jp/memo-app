@@ -1,5 +1,11 @@
 
 Rails.application.routes.draw do
+  namespace :api do
+    get 'memos/index'
+  end
   get 'home/index'
-  get 'home', to: 'home#index'
+
+  namespace :api, format: 'json' do
+    resources :memos, only:[:index]
+  end
 end
